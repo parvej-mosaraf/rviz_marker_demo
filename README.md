@@ -22,7 +22,7 @@ cd ~/ros2_ws/src
 
 2. Clone this repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/parvej-mosaraf/rviz_marker_demo.git
 ```
 
 3. Install dependencies:
